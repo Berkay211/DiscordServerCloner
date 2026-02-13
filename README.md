@@ -3,8 +3,7 @@
 Bu araç, bir Discord sunucusunu (Roller, Kanallar, Emojiler, İsim ve İkon) başka bir sunucuya kopyalamanızı sağlar.
 
 ## ⚠️ Yasal Uyarı
-Bu yazılım **eğitim amaçlıdır**. Self-bot kullanımı Discord Hizmet Koşulları'na (ToS) aykırıdır. Hesabınızın kapatılması gibi riskler tamamen **kullanıcı sorumluluğundadır**. 
-Bu yüzden "Fake" Hesap ile yapın.
+Bu yazılım **eğitim amaçlıdır**. Self-bot kullanımı Discord Hizmet Koşulları'na (ToS) aykırıdır. Hesabınızın kapatılması gibi riskler tamamen **kullanıcı sorumluluğundadır**.
 
 ## 🚀 Özellikler
 - Sunucu İsmi ve İkonu Kopyalama
